@@ -1,0 +1,11 @@
+#positive,negative,or zero
+num=float(input("enter your number: "))
+if num>0:
+  print("positive number")
+elif num<0:
+  print("negative number")
+else:
+  print("zero")
+
+  enter your number: 5
+positive number
