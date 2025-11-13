@@ -1,0 +1,5 @@
+# importing the module
+from math import sin
+print(sin(math.radians(90)))
+
+1.0
